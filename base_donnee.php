@@ -1,4 +1,5 @@
 <?php
+// fichier permmettant la configuration de la base de donnéd
 class Database {
     private static $instance = null;
     private $pdo;
